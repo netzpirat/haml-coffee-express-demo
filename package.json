@@ -1,0 +1,10 @@
+{
+  "name": "haml-coffee-express",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+      "express": "3.0.1",
+      "express-partials": "0.0.6"
+  }
+}
