@@ -78,7 +78,7 @@ node server.js
 
 ## Author
 
-Developed by Michael Kessler, [mksoft.ch](https://mksoft.ch).
+Developed by Michael Kessler, [FlinkFinger](http://www.flinkfinger.com).
 
 If you like Haml Coffee Assets, you can watch the repository at [GitHub](https://github.com/netzpirat/haml_coffee_assets) and
 follow [@netzpirat](https://twitter.com/#!/netzpirat) on Twitter for project updates.
